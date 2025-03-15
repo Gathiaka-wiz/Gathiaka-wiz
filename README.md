@@ -44,7 +44,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://gathiaka.vercel.app) (Just finishing up!!)
-- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com | [LinkedIn](#) | [Twitter](#) | .[Instagram](#)  | [Youtube](#)  | [Tiktok](#)
+- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com) | [LinkedIn](#) | [Twitter](#) | .[Instagram](#)  | [Youtube](#)  | [Tiktok](#)
 ⚡ *"Code, Create, Conquer!"*
 
 
