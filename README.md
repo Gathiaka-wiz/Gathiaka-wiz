@@ -36,6 +36,11 @@
 [![Lunacy](https://img.shields.io/badge/Lunacy-2CD6F4?style=for-the-badge&logo=lunacy&logoColor=black)](https://icons8.com/lunacy)
 <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 -->
+### ☁️ Hosting Platforms
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ### 📈 GitHub Stats
 
