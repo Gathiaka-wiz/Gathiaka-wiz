@@ -39,7 +39,7 @@
 
 ### 📈 GitHub Stats
 
-![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gathiaka-wiz/Gathiaka-wiz_icons=true&theme=radical)
+![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gathiaka-wiz&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
