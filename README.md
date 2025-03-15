@@ -1,13 +1,13 @@
-## Hi there, I'm John Gathiaka ( Wizard! 🧙‍♂️)
-
-> **"Building the web, one line of code at a time."**
+## Hi there, I'm John Gathiaka
+> **`(Also Art Wizard! 🧙‍♂️)`**
+ **"Building the web, one line of code at a time."**
 
 ### 🚀 About Me
 
 - 🏗️ Frontend Developer | Problem Solver
 - 💻 Passionate about building dynamic web applications & modern UI/UX
 - 🌍 Currently working on real-world projects & pushing my limits
-- 📚 Currently learning:**Typescript **React Native **Couch db **Python **MongoDB 
+- 📚 Currently learning: **Typescript <!-- **React Native **Couch db **Python **MongoDB -->
 - 🔥 Seeking challenging projects that push creativity & innovation
 
 ### 💡 Technologies & Tools
