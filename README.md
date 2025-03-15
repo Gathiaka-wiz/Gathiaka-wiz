@@ -1,4 +1,4 @@
-## Hi there, I'm Wizard! 🧙‍♂️
+## Hi there, I'm John Gathiaka ( Wizard! 🧙‍♂️)
 
 > **"Building the web, one line of code at a time."**
 
