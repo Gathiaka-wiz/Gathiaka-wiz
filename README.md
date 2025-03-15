@@ -39,13 +39,12 @@
 
 ### 📈 GitHub Stats
 
-![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Gathiaka-wiz/Gathiaka-wiz_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://gathiaka.vercel.app) (Just finishing up!!)
-- 💬 Reach out: [Email](mailto:your@email.com) | [LinkedIn](#) | [Twitter](#)
-
+- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com | [LinkedIn](#) | [Twitter](#) | .[Instagram](#)  | [Youtube](#)  | [Tiktok](#)
 ⚡ *"Code, Create, Conquer!"*
 
 
