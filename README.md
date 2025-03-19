@@ -4,11 +4,12 @@
 
 ### 🚀 About Me
 
-- 🏗️ Frontend Developer | Problem Solver
+- 🏗️ Frontend Freelance Developer | Problem Solver
 - 💻 Passionate about building dynamic web applications & modern UI/UX
 - 🌍 Currently working on real-world projects & pushing my limits
 - 📚 Currently learning: **Typescript <!-- **React Native **Couch db **Python **MongoDB -->
 - `🔥 Seeking challenging projects that push creativity & innovation`
+- `📌 Am currently up for hire, and looking for collaborations `
 
 ### 💡 Technologies & Tools
 
