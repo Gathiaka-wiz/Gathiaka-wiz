@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- 🏗️ Frontend Freelance Developer | Problem Solver
+- 🏗️ Frontend Developer | Freelancer | Problem Solver
 - 💻 Passionate about building dynamic web applications & modern UI/UX
 - 🌍 Currently working on real-world projects & pushing my limits
 - 📚 Currently learning: **Node js <!-- **React Native **Couch db **Python **MongoDB -->
