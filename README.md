@@ -4,10 +4,9 @@
 
 ### 🚀 About Me
 
-- 🏗️ Frontend Developer | Freelancer | Problem Solver
+- 🏗️ Full-stack Developer | Freelancer | Problem Solver
 - 💻 Passionate about building dynamic web applications & modern UI/UX
 - 🌍 Currently working on real-world projects & pushing my limits
-- 📚 Currently learning: **Node js <!-- **React Native **Couch db **Python **MongoDB -->
 - `🔥 Seeking challenging projects that push creativity & innovation`
 - `📌 Am currently up for hire, and looking for collaborations `
 
@@ -20,23 +19,21 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-<!--
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
--->
+
 **Dev Tools:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 [![Lunacy](https://img.shields.io/badge/Lunacy-2CD6F4?style=for-the-badge&logo=lunacy&logoColor=black)](https://icons8.com/lunacy)
-<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
--->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ### ☁️ Hosting Platforms
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -49,8 +46,8 @@
 
 ### 📫 Let's Connect
 
-- 🌐 [Portfolio](https://gathiaka.vercel.app) (Just finishing up!!)
-- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com) | [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=bf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-gathiaka-543639359%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) | [Twitter](#) | [Instagram](https://www.instagram.com/johngathiakaw/?igsh=MWdteDlwZmE3YXg3bw%3D%3D#)  | [Youtube](#)  | [Tiktok](#)
+- 🌐 [Portfolio](https://gathiaka.vercel.app)
+- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com) | [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=bf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-gathiaka-543639359%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) |<!-- [Twitter](#)  [Youtube](#)  | [Tiktok](#) -->| [Instagram](https://www.instagram.com/johngathiakaw/?igsh=MWdteDlwZmE3YXg3bw%3D%3D#)  |
 ⚡ *"Code, Create, Conquer!"*
 
 
