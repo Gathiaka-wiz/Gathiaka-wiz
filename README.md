@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://gathiaka.vercel.app)
-- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com) | [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=bf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-gathiaka-543639359%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) |<!-- [Twitter](#)  [Youtube](#)  | [Tiktok](#) -->| [Instagram](https://www.instagram.com/johngathiakaw/?igsh=MWdteDlwZmE3YXg3bw%3D%3D#)  |
+- 💬 Reach out: [Email](mailto:johngathiakaw@gmail.com) | [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=bf&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjohn-gathiaka-543639359%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) | [Twitter](https://x.com/gathiaka_john)  <!-- [Youtube](#)  | [Tiktok](#) -->| [Instagram](https://www.instagram.com/johngathiakaw/?igsh=MWdteDlwZmE3YXg3bw%3D%3D#)  |
 ⚡ *"Code, Create, Conquer!"*
 
 
