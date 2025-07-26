@@ -39,11 +39,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-
+<!--
 ### 📈 GitHub Stats
 
 ![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gathiaka-wiz&show_icons=true&theme=radical)
-
+-->
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://gathiaka.vercel.app)
